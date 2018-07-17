@@ -1,3 +1,9 @@
+---
+post_title: 'aXe JavaScript Accessibility API'
+layout: post
+published: true
+---
+
 # aXe Javascript Accessibility API
 
 ## Table of Contents
